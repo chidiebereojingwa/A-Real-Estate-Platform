@@ -1,0 +1,94 @@
+{
+  "house": [
+    {
+      "houseName": "Duplex",
+      "housePrice": "120000",
+      "houseYear": "2019",
+      "houseImage": "duplex1.jpg",
+      "user_id": 1,
+      "id": 1
+    },
+    {
+      "houseName": "Penthouse",
+      "housePrice": "120000",
+      "houseYear": "",
+      "user_id": "4",
+      "houseImage": "bungalow.jpg",
+      "id": 5
+    },
+    {
+      "houseName": "Bungalow ",
+      "housePrice": "120000000",
+      "houseYear": "25/10/10",
+      "user_id": "4",
+      "houseImage": "Agora-apartment-penthopenthouse.jpg",
+      "id": 6
+    },
+    {
+      "houseName": "Bungalow eeeee",
+      "housePrice": "300000000",
+      "houseYear": "25/10/10",
+      "user_id": "2",
+      "houseImage": "duplex1.jpg",
+      "id": 7
+    },
+    {
+      "houseName": "Penthouse33",
+      "housePrice": "300000",
+      "houseYear": "25/10/10",
+      "user_id": "2",
+      "houseImage": "bungalow.jpg",
+      "id": 8
+    },
+    {
+      "houseName": "duplex degacon",
+      "housePrice": "2000000",
+      "houseYear": "26/10/2019",
+      "user_id": "6",
+      "houseImage": "duplex1.jpg",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "oji",
+      "email": "oji@gmail.com",
+      "password": "0987654321",
+      "telephone": "07066885644",
+      "user_level": 2,
+      "id": 2
+    },
+    {
+      "name": "Gabby",
+      "email": "gabby@gov.com",
+      "password": "54321",
+      "telephone": "08066885644",
+      "user_level": "1",
+      "id": 3
+    },
+    {
+      "name": "uzor",
+      "email": "uzor@gmail.com",
+      "password": "12345",
+      "telephone": "09066885644",
+      "user_level": "1",
+      "id": 4
+    },
+    {
+      "name": "abisi",
+      "email": "abisi@gmail.com",
+      "password": "abisi123",
+      "telephone": "06066885644",
+      "user_level": "1",
+      "id": 5
+    },
+    {
+      "name": "chidi",
+      "email": "chidi@gmail.com",
+      "password": "654321",
+      "telephone": "12345",
+      "user_level": "1",
+      "id": 6
+    }
+  ]
+}
